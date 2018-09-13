@@ -341,3 +341,4 @@ diff -rupN gpm-1.20.7-orig/src/prog/display-buttons.c gpm-1.20.7-xclip/src/prog/
 
  /* display resulting data */
  int display_data(Gpm_Event *event, void *data)
+ 
